@@ -1,7 +1,3 @@
-//! Denne filen er for læreren!
-
-const titleSHISHAN = "Willow the master of all things code";
-const imgSHISHANUrl = "./images/SHISHAN/barberian.png";
 const textSHISHAN = "I am the one and only";
 const cardColorSHISHAN = "darkred";
 

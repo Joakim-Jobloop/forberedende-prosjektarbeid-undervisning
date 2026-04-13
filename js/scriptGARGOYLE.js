@@ -1,7 +1,3 @@
-/* Ønsker du å bruke et eget bilde legges dette in i images/GARGOYLENAVN/GARGOYLENAVN.png. 
- Finnes det et bilde der allerede kan du bruke det i stedet om du ønsker. 
- Hvis ikke lager du nytt navn (f.eks Griffin2) */
-
 const titleGARGOYLE = "";
 const imgGARGOYLEUrl = "";
 const textGARGOYLE = "";
