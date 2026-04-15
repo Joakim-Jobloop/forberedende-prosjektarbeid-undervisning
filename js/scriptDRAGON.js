@@ -1,7 +1,7 @@
-const titleDRAGON = "";
-const imgDRAGONUrl = "";
-const textDRAGON = "";
-const cardColorDRAGON = "";
+const titleDRAGON = "High Lord";
+const imgDRAGONUrl = "../images/archangel.png";
+const textDRAGON = "Lord of the high";
+const cardColorDRAGON = "orange";
 
 if (titleDRAGON && imgDRAGONUrl && textDRAGON && cardColorDRAGON) {
   document.getElementById("titleDRAGON").textContent = titleDRAGON;
