@@ -1,7 +1,7 @@
-const titleCENTAUR = "";
-const imgCENTAURUrl = "";
-const textCENTAUR = "";
-const cardColorCENTAUR = "";
+const titleCENTAUR = "CENTAUR";
+const imgCENTAURUrl = "images/CENTAUR/CENTAUR.png";
+const textCENTAUR = "Hear the thunder of my hooves, and know your end has come";
+const cardColorCENTAUR = "darkred";
 
 if (titleCENTAUR && imgCENTAURUrl && textCENTAUR && cardColorCENTAUR) {
   document.getElementById("titleCENTAUR").textContent = titleCENTAUR;
