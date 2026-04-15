@@ -1,7 +1,8 @@
-const titleCYCLOPS = "";
-const imgCYCLOPSUrl = "";
-const textCYCLOPS = "";
-const cardColorCYCLOPS = "";
+const titleCYCLOPS = "Eira Stormgaze";
+const imgCYCLOPSUrl = "/images/CYCLOPS/cyclops.jpg";
+const textCYCLOPS =
+  "This Storm-Cyclops is a ruthless Viking warrior who raids the stormy seas";
+const cardColorCYCLOPS = "#0e1b24";
 
 if (titleCYCLOPS && imgCYCLOPSUrl && textCYCLOPS && cardColorCYCLOPS) {
   document.getElementById("titleCYCLOPS").textContent = titleCYCLOPS;
