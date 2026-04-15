@@ -1,5 +1,5 @@
 const titleMANTICORE = "Master";
-const imgMANTICOREUrl = "images/MANTICORE/barberian.png";
+const imgMANTICOREUrl = "images/MANTICORE/manticore.png";
 const textMANTICORE = "When everyone falls… I remain.";
 const cardColorMANTICORE = "darkred";
 
