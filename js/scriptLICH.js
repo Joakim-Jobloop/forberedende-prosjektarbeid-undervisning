@@ -1,7 +1,7 @@
 const titleLICH = "Ditch The Lich";
 const imgLICHUrl = "/images/LICH/pngegg.png";
-const textLICH = "";
-const cardColorLICH = "";
+const textLICH = "From the school of running heroically away from danger";
+const cardColorLICH = "Green";
 
 if (titleLICH && imgLICHUrl && textLICH && cardColorLICH) {
   document.getElementById("titleLICH").textContent = titleLICH;
