@@ -1,7 +1,7 @@
-const titlePEGASUS = "";
-const imgPEGASUSUrl = "";
-const textPEGASUS = "";
-const cardColorPEGASUS = "";
+const titlePEGASUS = "PEGASUS";
+const imgPEGASUSUrl = "/images/Pegasus/Pegasus.png";
+const textPEGASUS = "123";
+const cardColorPEGASUS = "darkblue";
 
 if (titlePEGASUS && imgPEGASUSUrl && textPEGASUS && cardColorPEGASUS) {
   document.getElementById("titlePEGASUS").textContent = titlePEGASUS;
