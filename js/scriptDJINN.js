@@ -1,7 +1,8 @@
-const titleDJINN = "";
-const imgDJINNUrl = "";
-const textDJINN = "";
-const cardColorDJINN = "";
+const titleDJINN = "Weaver of Games";
+const imgDJINNUrl = "/images/DJINN/DJINN-weaver-of-games.png";
+const textDJINN = 
+  "Rules are such fragile things… let me show you how easily they bend.";
+const cardColorDJINN = "purple";
 
 if (titleDJINN && imgDJINNUrl && textDJINN && cardColorDJINN) {
   document.getElementById("titleDJINN").textContent = titleDJINN;
