@@ -2,20 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link
-      rel="stylesheet"
-      href="styles.css" />
-    <script
-      src="./js/script.js"
-      defer></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Choose Your Fighter!</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="./js/data.js" defer></script>
+    <script src="./js/script.js" defer></script>
   </head>
 
-  <body>
-    <h1>Choose your figher!</h1>
-    <div class="container"></div>
+  <body class="min-h-screen bg-[#0a0a0f] text-white flex flex-col items-center gap-10 py-14 px-6">
+    <div class="flex flex-col items-center gap-2">
+      <p class="text-xs tracking-[0.4em] uppercase text-white/40">Welcome to the arena</p>
+      <h1 class="text-5xl font-black tracking-widest uppercase text-amber-400 drop-shadow-[0_0_20px_rgba(251,191,36,0.4)]">
+        Choose your Fighter!
+      </h1>
+      <div class="h-px w-48 bg-gradient-to-r from-transparent via-amber-400/60 to-transparent mt-1"></div>
+    </div>
+    <div
+      class="container grid gap-5 w-full max-w-7xl"
+      style="grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))"
+    ></div>
   </body>
 </html>
