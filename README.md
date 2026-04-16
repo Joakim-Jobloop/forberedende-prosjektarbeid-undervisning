@@ -32,7 +32,7 @@ V1 eksisterte. Det var... noe.
 V1 lastet 40 separate script-filer dynamisk for å vise statiske kort.
 V2 har en `data.js` og en `script.js`.
 
-Læreren vår kalte V1-arkitekturen "pedagogisk".
+Noen ville kanskje ment denne V1-arkitekturen er "pedagogisk".
 Vi kaller det noe annet.
 
 ---
